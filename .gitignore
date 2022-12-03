@@ -63,3 +63,4 @@ entornoInfo/
 .ropeproject
 *.sqlite3
 */migrations/*
+blog/apps/post/migrations
